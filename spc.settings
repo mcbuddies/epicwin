@@ -1,0 +1,30 @@
+#Single Player Commands - Settings
+#Sun Apr 10 19:25:12 CEST 2011
+firedamage=false
+reachdistance=4.0
+disablecommands=false
+instant=true
+falldamage=false
+norepair=true
+gravity=1.0
+startup=
+watermovement=true
+previousz=0.0
+output=true
+previousy=0.0
+instantplant=false
+previousx=0.0
+fly=true
+waterdamage=true
+lastrift=-1
+instantkill=false
+keepitems=true
+speed=1.0
+noclip=false
+harvestitems=true
+mobsfrozen=false
+instantgrow=false
+damage=true
+infiniteitems=true
+mobdamage=true
+engine=JavaScript
